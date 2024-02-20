@@ -10,7 +10,7 @@ Questo progetto è la mia prima calcolatrice funzionante realizzata con HTML, CS
 - Tasti numerici e per le operazioni matematiche.
 - Visualizzazione del risultato in tempo reale.
 - Gestione della virgola.
-- Tasto "AC" per azzerare il display.
+- Tasto speciale "BONS" per azzerare il display.
 - Tasto "DEL" per cancellare l'ultimo numero.
 
 <b>Tecnologie utilizzate:</b>
