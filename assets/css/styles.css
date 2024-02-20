@@ -88,9 +88,19 @@ footer {
     font-size: 2rem;
   }
 
+  h1 {
+    font-size: 25px;
+    white-space: nowrap;
+  }
+
   footer {
     font-size: 0.7rem;
     margin-bottom: 150px;
   }
 }
 
+@media screen and (min-width: 432px) and (max-width: 480px) {
+  footer {
+    font-size: 14px;
+  }
+}
